@@ -3,7 +3,7 @@ Company: CODTECH IT SOLUTIONS
 ID: CT6WDS1536
 Domain: Data Science
 Duration: Aug to Sept 2024
-Mentor: 
+Mentor: NEELA SANTHOSH KUMAR
 
 **Overview of the Project**
 
