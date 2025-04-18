@@ -1,10 +1,3 @@
-Name: DEVRAJ DAS
-Company: CODTECH IT SOLUTIONS
-ID: CT6WDS1536
-Domain: Data Science
-Duration: Aug to Sept 2024
-Mentor: NEELA SANTHOSH KUMAR
-
 **Overview of the Project**
 
 **Project: Exploratory Data Analysis (EDA) on Ticket Analysis Dataset**
